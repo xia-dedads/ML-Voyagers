@@ -2,3 +2,6 @@
 /Xia-code
 */*.ipynb
 *.ipynb
+sijan-codes/EDA.ipynb
+*.ipynb
+.DS_Store
